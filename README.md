@@ -6,11 +6,11 @@ Howto
 -----
 Use the config.ini to set up the individual data: 
 
-*Your Sensor ID. Currently I implemented the Air quality sensor SDS011 and the temperature/humidity/pressure sensor BM280 specifics.
+* Your Sensor ID. Currently I implemented the Air quality sensor **SDS011** and the temperature/humidity/pressure sensor **BM280** specifics.
 
-*The start date. When went the sensor online?
+* The start date. When went the sensor online?
 
-*The target directory. The download folder of the files. A relative pathname from the php files is possible.
+* The target directory. The download folder of the files. A relative pathname from the php files is possible.
 
 Launch it in a proper php configuration: >php aggregate.php
 
