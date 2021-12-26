@@ -23,4 +23,5 @@ Quick'n dirty run on Windows
 * download MyLuftdatenArchiver from Github https://github.com/myslide/MyLuftdatenArchiver/archive/master.zip
 * unzip it (pathtoMyLuftdatenArchiver-master)
 * Set up the sensorids in the MyLuftdatenArchiver\config.ini. You find sensor number i.e. in the details of sensor in https://maps.sensor.community . 
-* open a commandline from the php directory and type: .\php <pathtoMyLuftdatenArchiver-master>\aggregate.php
+* Set up the start date and the target directory of the csv files  in the config.ini.
+* open a commandline from the php directory and type: .\php &lsaquo;pathtoMyLuftdatenArchiver-master&rsaquo;\aggregate.php
