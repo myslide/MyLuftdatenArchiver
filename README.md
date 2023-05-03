@@ -1,4 +1,5 @@
 ![](https://img.shields.io/github/stars/myslide/MyLuftdatenArchiver?style=social)
+
 Overview
 ========
 If you contribute to the citizen science project of http://luftdaten.info/ you may analyse your sensor data for your own purpose. This tiny php program downloads all these individual files of a specific sensor from a given date until today onto your computer or any given directory. Feel free to improve it! 
