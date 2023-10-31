@@ -7,7 +7,7 @@
  */
 include 'BME280Aggregator.php';
 include 'SDS011Aggregator.php';
-const WEBPAGE = "https://archive.luftdaten.info/";
+const WEBPAGE = "http://archive.sensor.community";
 
 $config = parse_ini_file("config.ini");
 
